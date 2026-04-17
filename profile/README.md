@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cerg-flux-lab/.github/main/assets/cerg-flux-logo-dark.png" alt="CERG-FLUX Lab" width="160"/>
+  <img src="https://raw.githubusercontent.com/cerg-flux-lab/.github/main/assets/cerg-flux-logo-dark.png" alt="CERG-FLUX Lab" width="4800"/>
 </p>
 
 <h1 align="center">CERG-FLUX Lab</h1>
