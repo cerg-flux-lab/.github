@@ -20,7 +20,7 @@
 
 ### About
 
-CERG-FLUX Lab is a computational research group within the [Clean Energy Research Group (CERG)](https://www.up.ac.za) at the University of Pretoria's Department of Mechanical and Aeronautical Engineering. Led by [Assoc. Prof. Muaaz Bhamjee](https://muaazbhamjee.github.io), the group develops physics-informed computational methods to understand transport phenomena across scales — from industrial multiphase flows and mesoscale lattice Boltzmann dynamics to physics-informed neural networks, high-energy particle physics at CERN, and quantum technologies.
+CERG-FLUX Lab is a computational research group within the [Clean Energy Research Group (CERG)](https://www.up.ac.za/clean-energy-research-group) at the University of Pretoria's Department of Mechanical and Aeronautical Engineering. Led by [Assoc. Prof. Muaaz Bhamjee](https://muaazbhamjee.github.io), the group develops physics-informed computational methods to understand transport phenomena across scales — from industrial multiphase flows and mesoscale lattice Boltzmann dynamics to physics-informed neural networks, high-energy particle physics at CERN, and quantum technologies.
 
 The name **FLUX** — *Fluids, Learning, and Uncertainty in compleX systems* — reflects both the physical quantities at the heart of our work and the deliberate intersection of disciplines that defines our research programme. We sit at the boundary between classical computational physics and modern data-driven methods, building tools and training researchers who are fluent in both.
 
